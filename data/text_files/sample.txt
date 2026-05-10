@@ -1,0 +1,37 @@
+Introduction to Python
+----------------------
+
+Python is a high-level, interpreted programming language known for its simple syntax and readability.
+It is widely used in web development, artificial intelligence, automation, data science,
+machine learning, backend development, and scripting.
+
+Python was created by Guido van Rossum and released in 1991.
+It helps developers write clean and efficient code with fewer lines compared to many other languages.
+
+
+Features of Python
+------------------
+
+1. Easy to Learn and Read
+Python has simple and beginner-friendly syntax.
+
+2. Interpreted Language
+Python code executes line by line, making debugging easier.
+
+3. Cross-Platform
+Python works on Windows, macOS, and Linux.
+
+4. Large Standard Library
+Python provides built-in modules for many tasks.
+
+5. Object-Oriented
+Python supports object-oriented programming concepts.
+
+6. Huge Community Support
+Millions of developers contribute libraries, tutorials, and tools.
+
+7. Used in AI and Data Science
+Python is heavily used in machine learning and artificial intelligence.
+
+8. Fast Development
+Developers can build applications quickly using Python.
